@@ -1,0 +1,1 @@
+Include and call getTrace();
